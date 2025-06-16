@@ -4,4 +4,4 @@ httpx
 pydantic
 aiogram>=3.0.0
 python-dotenv
-wandb
+prometheus-client
